@@ -1,2 +1,2 @@
 # general
-general things go here
+you can find things like slides from our past meeting here
