@@ -1,0 +1,1 @@
+[Slides from WWC Boston's breakout, "Anatomy of a Project Plan", at the 2016 Boston LadyProblems Hackathon](https://docs.google.com/presentation/d/1XTcMK37Y0IVvKDkeKaaYkR0l2ojwX1mPmgchth55Q_Q/edit#slide=id.g1933aac4fc_0_882)
